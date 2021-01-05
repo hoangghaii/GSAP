@@ -1,0 +1,22 @@
+{
+  "name": "gsap",
+  "version": "1.0.0",
+  "description": "Learn more about gsap",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "__hhaai_",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
